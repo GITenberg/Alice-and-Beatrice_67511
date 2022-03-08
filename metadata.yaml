@@ -1,0 +1,32 @@
+_repo: Alice-and-Beatrice_67511
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Absolom, John
+    gutenberg_agent_id: '54302'
+    url: http://www.gutenberg.org/2009/agents/54302
+creator:
+  author:
+    agent_name: Grandmamma
+    gutenberg_agent_id: '54301'
+    url: http://www.gutenberg.org/2009/agents/54301
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67511'
+language: en
+pgterms:marc904: https://archive.org/details/alicebeatrice00graniala/page/n5/mode/2up
+pgterms:marc905: 20210424175358grandmamma
+pgterms:marc906: '1881'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :E. P. Dutton & Co.,1881.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Alice and Beatrice
+url: http://www.gutenberg.org/ebooks/67511
