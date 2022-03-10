@@ -5,12 +5,17 @@ contributor:
     agent_name: Absolom, John
     gutenberg_agent_id: '54302'
     url: http://www.gutenberg.org/2009/agents/54302
+covers:
+- cover_type: archival
+  image_path: 67511-h/images/cover.jpg
 creator:
   author:
     agent_name: Grandmamma
     gutenberg_agent_id: '54301'
     url: http://www.gutenberg.org/2009/agents/54301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67511#Alice-and-Beatrice
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67511'
